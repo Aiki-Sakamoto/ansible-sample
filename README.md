@@ -8,12 +8,12 @@ vagrant up
 
 ## 接続
 
-controller
+controller 192.168.101.10
 ```
 vagrant ssh controller
 ```
 
-target
+target 192.168.101.20
 ```
 vagrant ssh target
 ```
